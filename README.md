@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![](https://komarev.com/ghpvc/?V3geTaco)
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat)
-![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=V3geTaco&color=green)
+![](https://komarev.com/ghpvc/?username=V3geTaco&style=flat)
+![](https://komarev.com/ghpvc/?username=V3geTaco&label=PROFILE+VIEWS)
