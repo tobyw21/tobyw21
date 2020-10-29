@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![](https://komarev.com/ghpvc/?V3geTaco)
-![](https://komarev.com/ghpvc/?username=V3geTaco&color=green)
-
+![](https://komarev.com/ghpvc/?username=V3geTaco&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=V3geTaco&style=flat)
