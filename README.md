@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://komarev.com/ghpvc/?V3geTaco)
+![](https://komarev.com/ghpvc/?V3geTaco&style=plastic)
 ![](https://komarev.com/ghpvc/?username=V3geTaco&color=brightgreen)
-![](https://komarev.com/ghpvc/?username=V3geTaco&style=plastic)
+
