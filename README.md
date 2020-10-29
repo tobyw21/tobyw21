@@ -1,6 +1,6 @@
-### Hi there 👋
 
 <!--
+### Hi there 👋
 **V3geTaco/V3geTaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![](https://komarev.com/ghpvc/?V3geTaco)
+![](https://komarev.com/ghpvc/?username=V3geTaco&color=green)
 
