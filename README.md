@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋 I'm Toby!
 
-- 🔭 I’m currently working on a `Rust` project which rewrites unix tools in coreutils and learning compilers 🤩
+- 🔭 I’m a final year Computer Science student at UNSW and now working on a `Rust` project which rewrites unix tools in coreutils 🤩
 - 🌱 I’m currently learning `Rust` and compilers.
 - 🤔 I’m looking for career in security or systems programming/development.
 - 📫 How to reach me: tobywang21@gmail.com
