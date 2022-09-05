@@ -1,7 +1,6 @@
 
 <!--
 ### Hi there 👋
-**V3geTaco/V3geTaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,6 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://komarev.com/ghpvc/?V3geTaco&style=plastic)
-![](https://komarev.com/ghpvc/?username=V3geTaco&color=brightgreen)
+![](https://komarev.com/ghpvc/?tobyw21&style=plastic)
+![](https://komarev.com/ghpvc/?username=tobyw21&color=brightgreen)
 
+### Hi there 👋 I'm Toby!
+
+- 🔭 I’m currently working on a `Rust` project which rewrites unix tools in coreutils and learning compilers 🤩
+- 🌱 I’m currently learning `Rust` and compilers.
+- 🤔 I’m looking for career in security or systems programming/development.
+- 📫 How to reach me: tobywang21@gmail.com
+- ⚡ Fun fact: I interested in systems programming so much although my major is security 🧐
