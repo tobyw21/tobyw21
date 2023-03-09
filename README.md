@@ -19,8 +19,4 @@ Here are some ideas to get you started:
 
 ### Hi there 👋 I'm Toby!
 
-- 🔭 I’m a graduate Computer Science student from UNSW and now learning and working on compilers and distributed systems. 🤩
-- 🌱 I’m currently learning web developments and cloud related topics.
-- 🤔 I’m looking for career in security or systems programming/development. 🤔
 - 📫 How to reach me: tobywang21@gmail.com
-- ⚡ Fun fact: I interested in systems programming so much although my major is security 🧐
